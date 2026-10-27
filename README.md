@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Goodluck Gilbert 👋
 
-<!--
-**goodluckgilbert007-debug/goodluckgilbert007-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Frontend Developer | JavaScript Enthusiast
 
-Here are some ideas to get you started:
+### 🚀 Featured Project
+**[💱 Currency Converter - Live Demo](https://goodluckgilbert007-debug.github.io/my-first-js-project/)**
+- Real-time exchange rates | Swap | Responsive
+- Code: https://github.com/goodluckgilbert007-debug/my-first-js-project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goodluck-gilbert-a68a952bb)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://goodluckgilbert007-debug.github.io/my-first-js-project/)
+
+### 🛠️ Tech Stack
+`HTML` `CSS` `JavaScript` `Git`
